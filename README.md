@@ -8,5 +8,5 @@ The study underscores the critical need for investing in case-specific data engi
 
 
 Key Words: Hospital Decision Making, Fair Machine Learning (ML), Bias in Data and Bias Mitigation, Sensitive Attribute Handling, Diabetes Patients Readmissions, UCI Diabetes Dataset. 
-![image](https://github.com/NickolasB98/TOM_Thesis/assets/157819544/f2c63961-b0ff-487c-afa0-1c0bdf5f4145)
+
 
