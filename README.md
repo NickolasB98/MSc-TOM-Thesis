@@ -24,3 +24,4 @@ The ultimate objective is to achieve fair and equitable predictions for all pati
 Keywords: Fair Machine Learning, Bias Mitigation, Hospital Readmissions, Diabetes Patients, UCI Diabetes Dataset
 finish
 
+Kookie igemasta , ah igempoytzi
