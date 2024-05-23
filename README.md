@@ -20,6 +20,10 @@ The research utilizes the "Diabetes 130-Hospitals" dataset sourced from the UCI 
 # Models and Techniques
 Various machine learning models (Random Forest, CatBoost, XGBoost) and techniques (Fair AI Tools, xAI Tools and Libraries) were employed to address the challenges of bias mitigation, data imbalance, and fairness in predictive modeling. The study explores the use of tailored data engineering approaches during the preprocessing phase to enhance model accuracy and fairness.
 
+# Workflow
+<img width="1096" alt="image" src="https://github.com/NickolasB98/TOM_Thesis/assets/157819544/5f1f2e19-bbfe-46f4-a665-c938f0fd82ac">
+
+
 # Results and Findings
 The research findings underscore the significance of domain-specific knowledge and insights in developing fair and accurate ML applications in healthcare. By addressing biases and data imbalances through careful data engineering, the study aims to achieve more equitable predictions and outcomes for diverse patient groups.
 
