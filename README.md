@@ -29,7 +29,6 @@ The research findings underscore the significance of domain-specific knowledge a
 
 # Key Learnings
 Through experimentation with different bias mitigation approaches and the use of explainable AI (xAI) tools, the project emphasizes the critical role of proper data engineering in mitigating bias, especially in health datasets. The study highlights the importance of gaining domain knowledge and advocating for more diverse and open-source healthcare datasets to improve model accuracy and fairness.
-Also, there is a need for more diverse and open-source healthcare datasets.
 The ultimate objective is to achieve fair and equitable predictions for all patient groups.
 
 # Acknowledgments
